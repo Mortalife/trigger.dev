@@ -1,5 +1,17 @@
 # @trigger.dev/sdk
 
+## 3.0.0-beta.57
+
+### Patch Changes
+
+- f9ec66c56: New Build System
+- Updated dependencies [f9ec66c56]
+- Updated dependencies [f7d32b83b]
+- Updated dependencies [e30beb779]
+- Updated dependencies [392453e8a]
+- Updated dependencies [f04041744]
+  - @trigger.dev/core@3.0.0-beta.57
+
 ## 3.0.0-beta.55
 
 ### Patch Changes
